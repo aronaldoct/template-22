@@ -1,0 +1,29 @@
+{
+    "name": "Personal App",
+    "short_name": "PA",
+    "description": "Blog personal",
+    "background_color": "#ffffff",
+    "theme_color": "#ffffff",
+    "orientation": "portrait",
+    "display": "standalone",
+    "start_url": "./?utm_source=web_app_manifest",
+    "scope": "./",
+    "lang": "es-MX",
+    "icons": [
+        {
+          "src": "../images/pwa/pensamiento-positivo.png",
+          "sizes": "512x512",
+          "type": "image/png"
+        },
+        {
+            "src": "../images/pwa/pensamiento-positivo1.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "../images/pwa/pensamiento-positivo2.png",
+            "sizes": "144x144",
+            "type": "image/png"
+        }
+    ]
+  }
